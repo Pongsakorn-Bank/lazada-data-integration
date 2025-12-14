@@ -1,5 +1,5 @@
-from lazada import Lazada
+from .lazada import Lazada
 
-all = [
+__all__ = [
     "Lazada"
     ]
